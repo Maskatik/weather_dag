@@ -1,2 +1,0 @@
-def model():
-    return "model"
